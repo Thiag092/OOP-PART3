@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutaEmpleadoConJefe
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ instanciar\ objetos\ de\ tipo\ EmpleadoConJefe\r\n\ y\ verificar\ posteirometne\ si\ teien\ eprmsi\ ode\ retirarse\ temprano,si\ teiene\ jefe\r\n\ o\ simeplemente\ imprimir\ la\ informacion\ del\ mismo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

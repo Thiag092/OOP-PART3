@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionHospital
+comment0.text=\r\n\ Esta\ clasese\ encarga\ de\ gestionar\ los\ datos\ de\ pacientes\ y\ hospitales\ para\ psoteiromente\r\n\ poder\ imprimir\ los\ datos\ filiatorios\ de\ la\ persona\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionStock
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ Crea\ instancias\ de\ las\ clases\ Laboratorio\ y\ Producto,\ para\ luego\ ser\r\n\ \ manejados\ mediante\ le\ menu\ utilizando\ los\ metodos\ pre\ definidos\r\n\ \ en\ dichas\ clases.\r\n
+numComments=2

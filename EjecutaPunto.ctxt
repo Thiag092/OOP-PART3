@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutaPunto
+comment0.text=\r\n\ Se\ encarga\ instanciar\ y\ posteriormente\ publicar\ la\ informacion\ pasada\r\n\ como\ parametro\ a\ un\ ojbeto\ de\ clase\ Punto.\r\n\ \r\n\ @author\:\ Yago\ Alberto\ Ayala.\r\n\ @version\:\ 1.0.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

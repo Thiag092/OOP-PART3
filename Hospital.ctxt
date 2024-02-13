@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Abstraccion\ de\ un\ Hospital\ al\ cual\ se\ le\ solicita\ diferentes\ datos\r\n\ para\ su\ posterior\ publicacion\ y\ manejo\ con\ los\ metodos\ definidos.\r\n\ \r\n\ @author\ Yago\ Alberto\ Ayala.\r\n\ @version\ 1.0.\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ @return\:\ devuelve\ el\ nombre\ del\ director\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ @param\:\ p_nombre;\ nombre\ dle\ director\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+comment3.text=\r\n\ @return\:\ Devuelve\ le\ apellido\ del\ director\r\n
+comment4.params=p_director
+comment4.target=void\ setDirector(java.lang.String)
+comment4.text=\r\n\ @param\:\ p_director;\ apellido\ dle\ director\r\n
+comment5.params=p_nombre\ p_director
+comment5.target=Hospital(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Constructor\ de\ la\ clase\ Hospital.\r\n\ \r\n\ @param\:\ p_nombre\:\ Nombre\ del\ director\r\n\ @param\:\ p_director\:\ Apellido\ del\ director.\r\n\ \r\n
+comment6.params=p_paciente
+comment6.target=void\ ConsultaDatosFiliatorios(Paciente)
+comment6.text=\r\n\ Este\ metodo\ se\ encarga\ de\ imprimir\ los\ datos\ filiatorios\ de\ un\ determinado\ apciente\r\n\ Imprimiendo\ ademas\ los\ datos\ del\ hospital\r\n
+numComments=7

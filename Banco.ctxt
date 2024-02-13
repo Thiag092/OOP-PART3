@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Banco
+comment0.text=\r\nClase\ ejcutable\ encargada\ de\ instanciar\ objetos\ de\ clase\ Persona,\ Cuenta\ corriente\ y\ CajaDeShorro\r\npara\ posteiormente\ ejecutar\ el\ menu\ y\ realizar\ lasacciones\ \ deseasdas\ de\ acuerdo\ a\ los\ metodos\ definidos\ anteiromente\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

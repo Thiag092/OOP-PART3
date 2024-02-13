@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CrearFigura
+comment0.text=\r\n\ Se\ encarga\ de\ instanciar\ objetos\ de\ clase\ Circulo\ para\ posteiormente\r\n\ actuar\ sobre\ las\ instanciar\ creadas\ segun\ el\ menu\ disponible\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

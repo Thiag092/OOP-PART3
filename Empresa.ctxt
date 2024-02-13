@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\r\n\ Se\ encarga\ de\ instanciar\ un\ objeto\ de\ clase\ Empleado\ para\ posteiromente\ verificar\ que\ le\ mismo\ posee\r\n\ permiso\ para\ retirarse\ temprano\ del\ trabajo\r\n\ de\ acuerdo\ a\ si\ es\ su\ aniversario\ desde\ que\ entro\ a\ trabajar\r\n\ dentro\ de\ la\ empresa\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

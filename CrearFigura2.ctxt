@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CrearFigura2
+comment0.text=\r\n\ Realiza\ las\ correpsondientes\ acciones\ sobre\ vairos\ rectangulos,\ luego\ de\ ser\ provistos\ de\ la\ informacion\r\n\ necesaria\ para\ su\ instanciacion.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

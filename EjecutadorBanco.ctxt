@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutadorBanco
+comment0.text=\r\n\ Se\ encarga\ de\ instanciar\ objetos\ de\ tipo\ Cuenta\ Bncaria\ y\ Perosna\r\n\ para\ depsues\ realizar\ un\ manejo\ de\ la\ informacion\ e\ imprimir\ datos\ sobre\ la\ misma\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
